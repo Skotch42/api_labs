@@ -1,0 +1,131 @@
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\bin\Debug\net6.0\appsettings.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\bin\Debug\net6.0\SignalR.staticwebassets.runtime.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\bin\Debug\net6.0\SignalR.exe
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\bin\Debug\net6.0\SignalR.deps.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\bin\Debug\net6.0\SignalR.runtimeconfig.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\bin\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\bin\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\scopedcss\bundle\SignalR.styles.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\refint\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\SignalR.genruntimeconfig.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\apilab4-main\apilab4-main\SignalR\obj\Debug\net6.0\ref\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\bin\Debug\net6.0\appsettings.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.staticwebassets.runtime.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.exe
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.deps.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.runtimeconfig.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\scopedcss\bundle\SignalR.styles.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\refint\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.genruntimeconfig.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\4) SignalR\SignalR\obj\Debug\net6.0\ref\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\bin\Debug\net6.0\appsettings.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.staticwebassets.runtime.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.exe
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.deps.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.runtimeconfig.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\bin\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\scopedcss\bundle\SignalR.styles.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\refint\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\SignalR.genruntimeconfig.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\4) SignalR\SignalR\obj\Debug\net6.0\ref\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\bin\Debug\net6.0\appsettings.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.staticwebassets.runtime.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.exe
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.deps.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.runtimeconfig.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.sourcelink.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\scopedcss\bundle\SignalR.styles.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\refint\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.genruntimeconfig.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labs\Lab4 SignalR\SignalR\obj\Debug\net6.0\ref\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\bin\Debug\net6.0\appsettings.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.staticwebassets.runtime.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.exe
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.deps.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.runtimeconfig.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\bin\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfoInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.AssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.SignalR.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.build.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SignalR.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\scopedcss\bundle\SignalR.styles.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\refint\SignalR.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\SignalR.genruntimeconfig.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\api_labss\Lab4 SignalR\SignalR\obj\Debug\net6.0\ref\SignalR.dll

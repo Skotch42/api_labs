@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcServer";
+
+service Register {
+	rpc ChangeRegister (RegisterRequest) returns (RegisterReply);
+}
+
+message RegisterRequest {
+	string textToChange = 1;
+}
+
+message RegisterReply {
+	string ChangedUp = 1;
+	string ChangedDown = 2;
+}

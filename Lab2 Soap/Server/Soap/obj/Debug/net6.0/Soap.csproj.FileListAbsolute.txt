@@ -1,0 +1,138 @@
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\appsettings.json
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\Soap.staticwebassets.runtime.json
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\Soap.exe
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\Soap.deps.json
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\Soap.runtimeconfig.json
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\Soap.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\Soap.pdb
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\SoapCore.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.csproj.AssemblyReference.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.AssemblyInfoInputs.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.AssemblyInfo.cs
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.csproj.CoreCompileInputs.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.RazorAssemblyInfo.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.RazorAssemblyInfo.cs
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\staticwebassets\msbuild.Soap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\staticwebassets\msbuild.build.Soap.props
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Soap.props
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Soap.props
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\scopedcss\bundle\Soap.styles.css
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\scopedcss\projectbundle\Soap.bundle.scp.css
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.csproj.CopyComplete
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\refint\Soap.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.pdb
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\Soap.genruntimeconfig.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_server-master\SOAP_lab_2_server-master\Soap\obj\Debug\net6.0\ref\Soap.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\appsettings.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.staticwebassets.runtime.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.exe
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.deps.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.runtimeconfig.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\SoapCore.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.csproj.AssemblyReference.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.AssemblyInfoInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.AssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.RazorAssemblyInfo.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.RazorAssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets\msbuild.Soap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets\msbuild.build.Soap.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Soap.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Soap.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\scopedcss\bundle\Soap.styles.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\scopedcss\projectbundle\Soap.bundle.scp.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.csproj.CopyComplete
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\refint\Soap.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.genruntimeconfig.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Server\Soap\obj\Debug\net6.0\ref\Soap.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\appsettings.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.staticwebassets.runtime.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.exe
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.deps.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.runtimeconfig.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Soap.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\SoapCore.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.Private.ServiceModel.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.ServiceModel.Http.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.ServiceModel.Primitives.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.ServiceModel.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.csproj.AssemblyReference.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.AssemblyInfoInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.AssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.RazorAssemblyInfo.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.RazorAssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets\msbuild.Soap.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets\msbuild.build.Soap.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Soap.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Soap.props
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\scopedcss\bundle\Soap.styles.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\scopedcss\projectbundle\Soap.bundle.scp.css
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.csproj.CopyComplete
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\refint\Soap.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\Soap.genruntimeconfig.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Server\Soap\obj\Debug\net6.0\ref\Soap.dll

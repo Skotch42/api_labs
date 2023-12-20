@@ -1,0 +1,186 @@
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\lab2Client.exe
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\lab2Client.deps.json
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\lab2Client.runtimeconfig.json
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\lab2Client.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\lab2Client.pdb
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Federation.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\de\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\es\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\it\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.AssemblyReference.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.Form1.resources
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.GenerateResource.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.AssemblyInfoInputs.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.AssemblyInfo.cs
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.CoreCompileInputs.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.CopyComplete
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\refint\lab2Client.dll
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.pdb
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\lab2Client.genruntimeconfig.cache
+C:\Users\vlado\Downloads\SOAP_lab_2_client-master\SOAP_lab_2_client-master\lab2Client\obj\Debug\net6.0-windows\ref\lab2Client.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.exe
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.deps.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.runtimeconfig.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Federation.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\de\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\es\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\it\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.AssemblyReference.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.Form1.resources
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.GenerateResource.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.AssemblyInfoInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.AssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.CopyComplete
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\refint\lab2Client.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.genruntimeconfig.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\ref\lab2Client.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.AssemblyReference.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.Form1.resources
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.GenerateResource.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.AssemblyInfoInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.AssemblyInfo.cs
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.CoreCompileInputs.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\refint\lab2Client.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.exe
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.deps.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.runtimeconfig.json
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\lab2Client.pdb
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Xml.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Federation.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Http.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\System.ServiceModel.Security.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\de\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\es\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\it\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.csproj.CopyComplete
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\lab2Client.genruntimeconfig.cache
+C:\Users\vlado\OneDrive\Рабочий стол\api\all labs\Lab2 Soap\Client\lab2Client\obj\Debug\net6.0-windows\ref\lab2Client.dll

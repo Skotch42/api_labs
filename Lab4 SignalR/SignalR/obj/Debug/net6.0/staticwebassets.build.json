@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "O7ztQbERBp/lHKVjdQwteJ7GhPnpORggPhasq2Ol5LE=",
+  "Source": "SignalR",
+  "BasePath": "_content/SignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalR\\wwwroot",
+      "Source": "SignalR",
+      "ContentRoot": "C:\\Users\\vlado\\OneDrive\\Рабочий стол\\api\\api_labss\\Lab4 SignalR\\SignalR\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\vlado\\OneDrive\\Рабочий стол\\api\\api_labss\\Lab4 SignalR\\SignalR\\wwwroot\\index.html",
+      "SourceId": "SignalR",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vlado\\OneDrive\\Рабочий стол\\api\\api_labss\\Lab4 SignalR\\SignalR\\wwwroot\\",
+      "BasePath": "_content/SignalR",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

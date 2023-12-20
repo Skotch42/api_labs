@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ehqbZ3cJ+uAfnDt8bU5mTjwupeA/BsIUQCw3V9XFa5fbrgRtU6U7N620mTKOlJ4NEOn4hh/UHB6iQx7u0eTQSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlado\\OneDrive\\Рабочий стол\\api\\api_labss\\Lab4 SignalR\\SignalR\\SignalR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\vlado\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
